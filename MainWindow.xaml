@@ -1,0 +1,28 @@
+﻿<Window x:Class="ReferenceChecker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReferenceChecker"
+        mc:Ignorable="d"
+        Title="Reference Checker" Height="450" Width="800">
+    <Grid>
+        <!-- Contenedor de la vista principal -->
+        <Grid Name="MainView" Visibility="Visible">
+            <TextBlock Text="Component family" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,30,0,0" FontSize="16"/>
+            <ComboBox Name="componentComboBox" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" SelectionChanged="ComponentComboBox_SelectionChanged">
+                <ComboBoxItem Content="MOSFET N CHANNEL"/>
+                <ComboBoxItem Content="MOSFET P CHANNEL"/>
+                <ComboBoxItem Content="RECTIFIER DIODE"/>
+                <ComboBoxItem Content="LED DIODE"/>
+                <ComboBoxItem Content="ZENER DIODE"/>
+            </ComboBox>
+        </Grid>
+        
+        <!-- Contenedor de la vista MOSFET -->
+        <local:MosfetView x:Name="MosfetView" Visibility="Collapsed" />
+
+        <!-- Contenedor de la vista Diode -->
+        <local:DiodeView x:Name="DiodeView" Visibility="Collapsed" />
+    </Grid>
+</Window>

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|c:\\users\\asus\\source\\repos\\referencechecker\\mosfetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|solutionrelative:mosfetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|c:\\users\\asus\\source\\repos\\referencechecker\\mosfetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|solutionrelative:mosfetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|c:\\users\\asus\\source\\repos\\referencechecker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|c:\\users\\asus\\source\\repos\\referencechecker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|c:\\users\\asus\\source\\repos\\referencechecker\\diodeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|solutionrelative:diodeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|c:\\users\\asus\\source\\repos\\referencechecker\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|solutionrelative:darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|c:\\users\\asus\\source\\repos\\referencechecker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6514DE6A-2108-43C8-8D46-B7F6D102978C}|ReferenceChecker.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MosfetView.xaml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MosfetView.xaml",
+              "RelativeDocumentMoniker": "MosfetView.xaml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MosfetView.xaml",
+              "RelativeToolTip": "MosfetView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T00:22:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiodeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\DiodeView.xaml.cs",
+              "RelativeDocumentMoniker": "DiodeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\DiodeView.xaml.cs",
+              "RelativeToolTip": "DiodeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:06:01.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T23:45:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\DarkTheme.xaml",
+              "RelativeToolTip": "DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T23:41:10.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MosfetView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MosfetView.xaml.cs",
+              "RelativeDocumentMoniker": "MosfetView.xaml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MosfetView.xaml.cs",
+              "RelativeToolTip": "MosfetView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:15:01.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T22:03:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ReferenceChecker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:03:26.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
